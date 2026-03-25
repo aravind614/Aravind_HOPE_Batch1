@@ -8,7 +8,3 @@
 3. Why program name and class name are same?
     The file name must match the public class name.
     Because Java uses the class name to identify 
-xcec
-wdx
-wxswxz
-a
