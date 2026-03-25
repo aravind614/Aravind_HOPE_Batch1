@@ -16,5 +16,6 @@ public class Richest_customer_wealth {
         int[][] account = {{1,2,3},{3,2,1}};
         System.out.println(maximumWealth(account));
         System.err.println("");
+    
     }
 }
